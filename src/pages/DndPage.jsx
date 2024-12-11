@@ -125,7 +125,7 @@ function DndPage() {
                     top: '5px',
                     right: '5px',
                 }}
-                onClick={() => nav('/')}
+                onClick={() => nav('todo-app/')}
             >
                 Back to normal
             </button>
