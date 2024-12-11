@@ -7,8 +7,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<TodoPage/>} />
-        <Route path="/dnd" element={<DndPage/>} />
+        <Route path="/todo-app" element={<TodoPage/>} />
+        <Route path="/todo-app/dnd" element={<DndPage/>} />
       </Routes>
     </Router>
   );

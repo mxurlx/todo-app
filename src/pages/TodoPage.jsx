@@ -71,7 +71,7 @@ function TodoPage() {
               top: '5px',
               right: '5px',
           }}
-          onClick={() => nav('/dnd')}
+          onClick={() => nav('/todo-app/dnd')}
       >
           Dnd
       </button>
